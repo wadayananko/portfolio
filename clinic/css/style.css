@@ -367,5 +367,20 @@ header{
 .footer_navi ul{
 	padding:0;
 }
-
+.guide table{
+	margin:30px auto;
+}
+.guide h2{
+	font-size:90%;
+}
+.wrapper_2 h2{
+	font-size:100%;
+}
+.wrapper h2{
+	font-size:100%;
+}
+.wrapper h3{
+	font-size:95%;
+}
+}
 
