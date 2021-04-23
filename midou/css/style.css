@@ -517,4 +517,31 @@ p.niku,p.tare,p.seki{
 .access_p{
 	padding-left:10px;
 }
+.aisatu p{
+	margin-left:5px;
+   	margin-right:5px;
+}
+lavel{
+	font-size:90%;
+}
+input{
+	width:300px;
+	height:25px;
+	font-size:90%;
+    	margin-left:5px;
+}
+textarea{
+	width:300px;
+	height:200px;
+	font-size:90%;
+	margin-left:5px;
+}
+button{
+	background-color:#666;
+	color:#fff;
+	width:100px;
+	height:40px;
+	font-family:"æ¸¸æ˜Žæœ","ãƒ’ãƒ©ã‚®ãƒŽæ˜Žæœ",serif;
+	font-size:90%;
+}
 }
